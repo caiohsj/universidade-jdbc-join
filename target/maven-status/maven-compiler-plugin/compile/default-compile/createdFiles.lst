@@ -1,0 +1,5 @@
+com\mycompany\universidade\jdbc\join\Disciplina.class
+com\mycompany\universidade\jdbc\join\Aluno.class
+com\mycompany\universidade\jdbc\join\Matricula.class
+com\mycompany\universidade\jdbc\join\AlunoDAO.class
+com\mycompany\universidade\jdbc\join\Main.class
